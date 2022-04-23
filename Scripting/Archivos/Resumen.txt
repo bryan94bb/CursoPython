@@ -1,6 +1,6 @@
 DEPORTE 	CANTIDAD
-Futbol: 	121 
-Tenis: 		129 
-Basquet: 	123 
+Futbol: 	117 
+Tenis: 		120 
+Basquet: 	134 
 Balonmano: 	129 
-TOTAL:	 	502
+TOTAL:	 	500
